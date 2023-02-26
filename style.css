@@ -1,0 +1,25 @@
+
+
+body {
+	background-color: #fafafa;
+	font-family: LoveFromSerifL-400;
+}
+
+header {
+	text-align: center;
+	padding-top: 50px;
+}
+
+section {
+	padding: 20px;
+}
+
+footer {
+	text-align: center;
+	font-size: 12px;
+	padding: 10px;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	background-color: #E5E5E5;
+}
