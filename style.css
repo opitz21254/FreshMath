@@ -1,5 +1,4 @@
 
-
 body {
 	background-color: #fafafa;
 	font-family: LoveFromSerifL-400;
@@ -22,4 +21,20 @@ footer {
 	bottom: 0;
 	width: 100%;
 	background-color: #E5E5E5;
+}
+
+.line .inner.start {
+    perspective: 12px;
+    opacity: 0
+}
+
+.line {
+    font-size: 66px;
+    text-align: center;
+    perspective: 12px;
+}
+
+.line.punctuated {
+    position: relative;
+    left: .12em
 }
